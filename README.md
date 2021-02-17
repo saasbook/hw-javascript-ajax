@@ -1,2 +1,4 @@
-# hw-javascript-ajax
-Intro to JavaScript &amp; AJAX programming for ESaaS
+# Enhancing RottenPotatoes with JavaScript & AJAX
+
+
+This CHIPS is under construction.
